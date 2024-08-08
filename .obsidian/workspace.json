@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Mix-OSCP-CPTS/Commands.md",
+                "file": "Cheatsheets/Mix-OSCP-CPTS/New-Commands.md",  // Изменен файл
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.51103591918945
+    "width": 350  // Увеличена ширина левой панели
   },
   "right": {
     "id": "af0655b461996112",
@@ -134,7 +134,7 @@
     ],
     "direction": "horizontal",
     "width": 300,
-    "collapsed": true
+    "collapsed": false  // Панель больше не скрыта
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,49 +150,6 @@
   "lastOpenFiles": [
     "Cheatsheets/Mix-OSCP-CPTS/Web Application Attacks.md",
     "Boxes/Challenge-Labs/2-Relia/external-network/*192.168.196.249-LEGACY.md",
-    "Academy/BCPS/Burp-Suite/2024-04-09-BSCP.burp.backup.temp_20240415_154636",
-    "Academy/BCPS/Burp-Suite/2024-04-09-BSCP.burp.backup.temp_20240415_151636",
-    "Academy/BCPS/Burp-Suite/2024-04-09-BSCP.burp.backup.temp_20240415_144636",
-    "Academy/BCPS/Burp-Suite/2024-04-09-BSCP.burp.backup.temp_20240415_141636",
-    "Academy/BCPS/Burp-Suite/2024-04-09-BSCP.burp.backup.temp_20240415_134636",
-    "Academy/BCPS/Burp-Suite/2024-04-09-BSCP.burp.backup.temp_20240415_131636",
-    "Academy/BCPS/Burp-Suite/2024-04-09-BSCP.burp.backup.temp_20240415_124636",
-    "Academy/BCPS",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/ftp/Uninstaller.lnk",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/joomla-CVE-2023-23752",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.store.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.remote.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.pr.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.portal.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.dev.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.careers.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/resources/eyewitness/TRCOLOR_subdomain_EyeWitness/screens/http.blog.trilocor.local.png",
-    "Academy/CPTS-Exam/Servers/Entry-Point/NIX01.md",
-    "Academy/CPTS-Exam/Servers/Entry-Point/Attack-chain.md",
-    "Academy/CPTS-Exam/scope.md",
-    "Academy/CPTS-Exam/Note-Structures-Template.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Standalone-3/attack-chain.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Standalone-2/attack-chain.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Standalone-1/attack-chain.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Active-directory/attack-chain.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Active-directory/192.168.124.101-MS01.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Exercises.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Standalone-3/192.168.124.112.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Standalone-2/192.168.124.111.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Standalone-1/192.168.124.110.md",
-    "images/Pasted image 20240403082855.png",
-    "images/Pasted image 20240403082439.png",
-    "Cheatsheets/Mix-OSCP-CPTS/Windows/2. Attacking AD.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Active-directory/192.168.124.102-MS02.md",
-    "Boxes/Challenge-Labs/OSCP-Exam/Active-directory/192.168.124.100-dc01.md",
-    "Cheatsheets/Mix-OSCP-CPTS/Windows/1. Enumeration.md",
-    "Academy/CPTS/Content Summary/13. Active Directory Enumeration & Attacks.md",
-    "Cheatsheets/Mix-OSCP-CPTS/Windows/Windows Privilege Escalation.md",
-    "Cheatsheets/Mix-OSCP-CPTS/Linux Privilege Escalation.md",
-    "Academy/CPTS/Content Summary/26. Windows Privilege Escalation.md",
-    "Cheatsheets/Mix-OSCP-CPTS/Tunneling and Port Forwarding.md",
-    "Cheatsheets/Mix-OSCP-CPTS/Windows/3. Lateral Movement.md",
-    "Cheatsheets/Mix-OSCP-CPTS/Password Attacks.md"
+    // ... остальные файлы
   ]
 }
